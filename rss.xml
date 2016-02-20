@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Violet Rhythm]]></title>
         <description><![CDATA[Violet Rhythm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/violetrhythm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 02:43:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 02:50:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/violetrhythm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef5018e6-7a86-4ce4-aa27-5b7e5790b8e2.png">]]></description>
+            <link>https://thegrid.ai/violetrhythm/3f691b32-3235-4232-bfbc-f23762e26e6c/index.html</link>
+            <guid isPermaLink="false">3f691b32-3235-4232-bfbc-f23762e26e6c</guid>
+            <pubDate>Sat, 20 Feb 2016 02:49:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3236526-3521-4f88-95e8-e9c3bfa7f038.jpg">]]></description>
-            <link>undefined8c374bed-64b9-4c25-8ffd-227316fae0c7/index.html</link>
+            <link>https://thegrid.ai/violetrhythm/8c374bed-64b9-4c25-8ffd-227316fae0c7/index.html</link>
             <guid isPermaLink="false">8c374bed-64b9-4c25-8ffd-227316fae0c7</guid>
             <pubDate>Sat, 20 Feb 2016 02:43:30 GMT</pubDate>
         </item>
